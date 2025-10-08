@@ -32,9 +32,6 @@ const schemas = {
     <meta property="article:tag" content="AI Search" />
     <meta property="article:tag" content="ChatGPT" />
  
-
-
- 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1927,9 +1924,434 @@ const schemas = {
     }
   ]
 }
+  `,
+  'toronto-research-sep-2025': `
+<!-- Blog: Toronto Research Study Specific Meta Tags -->
+<title>AI vs Google Search: What 5,000 Queries Reveal About Discovery | West Operators</title>
+<meta name="description" content="University of Toronto research reveals only 10-30% overlap between AI and Google sources. Learn how ChatGPT, Claude, and Perplexity create different webs of information." />
+<meta name="author" content="Angelina Yang" />
 
+<!-- Open Graph Specific -->
+<meta property="og:url" content="https://westoperators.com/blog/toronto-research-sep-2025" />
+<meta property="og:title" content="The Search Visibility Gap: AI vs Google Discovery Patterns" />
+<meta property="og:description" content="Toronto researchers analyzed 5,000 queries across AI engines. 70% of AI citations don't appear in Google. Each engine pulls from completely different sources." />
+<meta property="og:image" content="https://cdn.prod.website-files.com/689890aedcf39f5ff077fda1/68e6937afd8669ce88a2ef08_983080a3.png" />
+<meta property="article:author" content="Angelina Yang" />
+<meta property="article:published_time" content="2025-10-15T09:00:00-08:00" />
+<meta property="article:modified_time" content="2025-10-15T09:00:00-08:00" />
 
+<!-- Twitter Specific -->
+<meta name="twitter:url" content="https://westoperators.com/blog/toronto-research-sep-2025" />
+<meta name="twitter:title" content="5,000 Queries Reveal: AI Search ≠ Google Search" />
+<meta name="twitter:description" content="Toronto study: Only 10-30% source overlap. 70% of AI citations invisible to Google. Your visibility playbook just changed." />
+<meta name="twitter:image" content="https://cdn.prod.website-files.com/689890aedcf39f5ff077fda1/68e6937afd8669ce88a2ef08_983080a3.png" />
+
+<!-- Article Tags -->
+<meta property="article:section" content="AI Research" />
+<meta property="article:tag" content="GEO Research" />
+<meta property="article:tag" content="University of Toronto" />
+<meta property="article:tag" content="AI Search Behavior" />
+<meta property="article:tag" content="Search Visibility" />
+
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://westoperators.com/blog/toronto-research-sep-2025"
+      },
+      "headline": "The search visibility gap: What 5,000 queries reveal about AI versus Google",
+      "alternativeHeadline": "A Toronto research team maps the new rules of online discovery",
+      "description": "University of Toronto researchers analyzed 5,000 queries across ChatGPT, Claude, Perplexity, Gemini, and Google. Only 10-30% source overlap reveals fundamentally different discovery ecosystems.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/689890aedcf39f5ff077fda1/68e6937afd8669ce88a2ef08_983080a3.png",
+        "width": 1200,
+        "height": 630,
+        "caption": "AI vs Google search patterns: Toronto research reveals the visibility gap"
+      },
+      "datePublished": "2025-10-15T09:00:00-08:00",
+      "dateModified": "2025-10-15T09:00:00-08:00",
+      "author": {
+        "@type": "Person",
+        "name": "Angelina Yang",
+        "url": "https://www.linkedin.com/in/meetangelina/",
+        "sameAs": "https://www.linkedin.com/in/meetangelina/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://westoperators.com/#organization"
+      },
+      "articleBody": "Researchers at the University of Toronto ran thousands of queries through ChatGPT, Claude, Perplexity, Gemini, and Google. Same questions, wildly different answers...",
+      "keywords": [
+        "Generative Engine Optimization research",
+        "Toronto GEO study",
+        "AI search behavior",
+        "ChatGPT vs Google",
+        "Claude search patterns",
+        "Perplexity citations",
+        "search visibility gap",
+        "earned media dominance",
+        "AI engine differences",
+        "GEO strategy",
+        "source overlap analysis",
+        "AI search optimization"
+      ],
+      "articleSection": ["AI Research", "Search Optimization", "GEO Studies"],
+      "wordCount": 4200,
+      "timeRequired": "PT18M",
+      "inLanguage": "en-US",
+      "citation": [
+        {
+          "@type": "ScholarlyArticle",
+          "name": "Generative Engine Optimization: How to Dominate AI Search",
+          "author": "University of Toronto",
+          "datePublished": "2025-09",
+          "url": "https://arxiv.org/abs/2509.08919"
+        }
+      ],
+      "mentions": [
+        {
+          "@type": "Organization",
+          "name": "University of Toronto",
+          "description": "Research institution conducting GEO analysis"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "ChatGPT",
+          "applicationCategory": "AI Assistant"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Claude",
+          "applicationCategory": "AI Assistant"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Perplexity",
+          "applicationCategory": "AI Search Engine"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Gemini",
+          "applicationCategory": "AI Assistant"
+        },
+        {
+          "@type": "Organization",
+          "name": "Coca-Cola",
+          "description": "Example of brand dominance in generic searches"
+        },
+        {
+          "@type": "Organization",
+          "name": "Pepsi",
+          "description": "Example of brand dominance in generic searches"
+        },
+        {
+          "@type": "Organization",
+          "name": "TechRadar",
+          "description": "Frequently cited publication"
+        }
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Search Visibility Gap",
+          "description": "The divergence between sources cited by AI engines versus traditional search engines"
+        },
+        {
+          "@type": "Thing",
+          "name": "Earned Media Dominance",
+          "description": "The preference of AI engines for third-party sources over brand-owned content"
+        },
+        {
+          "@type": "Thing",
+          "name": "Source Fragmentation",
+          "description": "How different AI engines pull from largely non-overlapping source pools"
+        },
+        {
+          "@type": "Thing",
+          "name": "Freshness Lag",
+          "description": "The 60-120 day delay between content publication and AI citation"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How is GEO different from traditional SEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "SEO optimizes for Google's ranked list of links. GEO optimizes for AI-synthesized answers that pull from multiple sources. The key difference: Google rewards your website's authority directly, while AI engines reward third-party validation about you. You need both - SEO gets you into the retrieval set, GEO gets you cited in the answer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which AI engine should I prioritize?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start by analyzing your actual user behavior. If you're B2B, ChatGPT likely dominates. Consumer products might see more Perplexity usage. The Toronto study shows each engine pulls from largely different sources, so focusing on one or two engines where your buyers actually are delivers better ROI than spreading thin across all of them."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long before I see results from GEO efforts?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Based on the freshness data, AI engines cite content that's typically 60-120 days old. Plan for a 3-month lag. Content published in January affects April visibility. Earned media from February peaks in May. This isn't instant gratification - it's quarterly planning."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the minimum viable GEO strategy for a Series A startup?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Three essentials: (1) Add comparison tables and structured data to your top 5 landing pages, (2) Identify the 3-5 publications that dominate your category's AI citations and build relationships there, (3) Track weekly whether you appear in AI search results for your top 10 buying-intent queries. This baseline takes 20 hours to set up, then 2-3 hours weekly to maintain."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How technical is GEO implementation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There are two levels. Basic tactics like schema markup, comparison tables, and FAQ sections can be implemented with standard web development skills - any developer can add these in a week. Advanced optimization like becoming a trusted data source for publishers or systematic earned media placement requires strategic expertise more than technical skills. Start with the basics, layer in advanced tactics as you grow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can small brands compete with established players in AI search?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, but not in generic searches. When someone asks for 'best CRM,' Salesforce will dominate. But the Toronto data shows 50%+ of each engine's sources are unique to that engine. Focus on long-tail queries, specific use cases, and the unique source pools of your target engine. You don't need to beat Salesforce everywhere - just in the specific contexts your buyers search."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Should I stop creating blog content for my website?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, but redistribute your effort. The 70/30 rule: spend 70% of content effort on earning third-party coverage and 30% on owned content. Your website content should be citation-ready (comparison tables, clear differentiators, structured data) rather than volume-focused. One perfectly structured comparison page beats ten generic blog posts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I measure GEO success?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditional metrics like rankings don't apply. Track: (1) Citation rate - how often you appear in AI responses for target queries, (2) Share of voice - your citations vs competitors, (3) Source diversity - which publications cite you, (4) Query coverage - percentage of buying-intent queries where you appear. Run these checks weekly, analyze trends monthly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my content is great but still not getting cited?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You likely have a discovery problem, not a quality problem. Check if you're even in the retrieval set by looking at whether you rank in the top 20 on Google/Bing for those queries. AI engines can't cite what they can't find. Fix traditional SEO first, then optimize for citation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is GEO worth it if only 34% of adults use AI search?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "That 34% isn't evenly distributed. In tech, it's likely 60%+. Among decision-makers at growth-stage companies, it could be 80%+. Plus, Perplexity handles 780 million queries monthly and growing. The question isn't whether to optimize for AI search, but whether you can afford to cede this channel to competitors while it's still emerging."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does language affect my GEO strategy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dramatically. ChatGPT completely switches sources by language - almost zero overlap between English and Chinese results. Claude uses English sources regardless of query language. If you're global, you need earned media in each target language for ChatGPT, but strong English coverage works across languages for Claude. Know your market, know your engine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What's the biggest mistake companies make with GEO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Treating it like SEO with different keywords. GEO isn't about optimizing your website better. It's about becoming a cited source in the publications AI engines already trust. The biggest mistake is spending all your effort on owned content when AI engines pull 70%+ from earned media."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ResearchStudy",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025#research",
+      "name": "University of Toronto GEO Research Study",
+      "description": "Comprehensive analysis of 5,000 queries across AI engines and Google",
+      "author": {
+        "@type": "Organization",
+        "name": "University of Toronto"
+      },
+      "datePublished": "2025-09",
+      "studySubject": "AI search engine behavior and source citation patterns",
+      "outcome": [
+        "Only 10-30% source overlap between AI and Google",
+        "70% of AI citations come from earned media",
+        "Each AI engine has 50%+ unique sources",
+        "AI engines cite content 60-120 days old on average",
+        "Major brands dominate generic searches"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025#key-findings",
+      "name": "Key Research Findings",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "10-30% Source Overlap",
+          "description": "Only 10-30% of sources cited by AI engines also appear in Google's top results"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "70% Earned Media",
+          "description": "AI engines pull 70% of citations from third-party sources, not brand websites"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "50%+ Unique Sources",
+          "description": "Each AI engine's citations are more than 50% unique to that engine"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "60-120 Day Freshness Lag",
+          "description": "AI engines typically cite content that's 2-4 months old"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Brand Monopoly in Generic",
+          "description": "Major brands dominate generic searches across all AI engines"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://westoperators.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://westoperators.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Toronto Research: AI vs Google Search Study",
+          "item": "https://westoperators.com/blog/toronto-research-sep-2025"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://westoperators.com/blog/toronto-research-sep-2025",
+      "url": "https://westoperators.com/blog/toronto-research-sep-2025",
+      "name": "The search visibility gap: Toronto research on AI versus Google",
+      "description": "University of Toronto's comprehensive study analyzing 5,000 queries reveals fundamental differences in how AI engines and Google discover information",
+      "breadcrumb": {
+        "@id": "https://westoperators.com/blog/toronto-research-sep-2025#breadcrumb"
+      },
+      "isPartOf": {
+        "@type": "Website",
+        "@id": "https://westoperators.com/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/689890aedcf39f5ff077fda1/68e6937afd8669ce88a2ef05_a279c576.png"
+      },
+      "datePublished": "2025-10-15T09:00:00-08:00",
+      "dateModified": "2025-10-15T09:00:00-08:00"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://westoperators.com/#organization",
+      "name": "West Operators",
+      "url": "https://westoperators.com",
+      "logo": "https://cdn.prod.website-files.com/68ae056cbd74ca6080d14cdf/68ae056cbd74ca6080d14d92_favicon1-westoperators.png",
+      "description": "Not an agency. In-house growth operators who have scaled multiple IPOs and exits. We plug into your team fast and match your pace.",
+      "slogan": "Messaging that wins. Content that spreads.",
+      "email": "west@westoperators.com",
+      "telephone": "+1-714-459-2640",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "324 Molinetto St",
+        "addressLocality": "Las Vegas",
+        "addressRegion": "NV",
+        "postalCode": "89138",
+        "addressCountry": "USA"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/west-operators/"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Sales",
+        "email": "west@westoperators.com",
+        "telephone": "+1-714-459-2640",
+        "url": "https://westoperators.com/contact"
+      },
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "GEO Research Implementation",
+            "description": "Apply Toronto research findings to your specific market and category"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "AI Engine Analysis",
+            "description": "Identify which engines your buyers use and their unique source preferences"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Earned Media Strategy",
+            "description": "Build presence in the 70% of sources that matter for AI visibility"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://westoperators.com/blog#related-articles",
+      "name": "Related Articles from West Operators",
+      "relatedLink": [
+        "https://westoperators.com/blog/ai-visibility",
+        "https://westoperators.com/blog/series-a-growth-lessons",
+        "https://westoperators.com/blog/growth-tradeoff",
+        "https://westoperators.com/blog/competing-with-giants"
+      ]
+    }
+  ]
+}
   `
+
 
 
 };
