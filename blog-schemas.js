@@ -7,7 +7,7 @@ const schemas = {
   'ai-visibility': `
   <!-- Blog 1: AI Visibility Meta Tags -->
     <title>Winning customers through SEO or  GEO/AI search  | West Operators</title>
-    <meta name="description" content="90% of B2B buyers use AI tools for research. Learn the proven GEO framework to optimize for ChatGPT, Claude, and Perplexity while maintaining SEO dominance." />
+    <meta name="description" content="90% of B2B buyers now use AI for research. Master the GEO framework to rank in ChatGPT, Claude & Perplexity without sacrificing Google rankings." />
     <meta name="author" content="Angelina Yang" />
     
     <!-- Open Graph Specific -->
@@ -448,7 +448,7 @@ const schemas = {
   'series-a-growth-lessons': `
  <!-- Essential Meta Tags -->
 <title>Series A Positioning: Why 80% Die Between $1M-$10M ARR | West Operators</title>
-<meta name="description" content="The best Series A pitch promises sales expansion. The best execution does the opposite. Learn the positioning-first GTM framework that prevents the $1-10M death zone." />
+<meta name="description" content="The best Series A pitch promises expansion. The best execution does the opposite. Learn the positioning-first GTM that prevents the $1-10M death zone." />
 
 <!-- Open Graph / Facebook -->
 
@@ -1928,7 +1928,7 @@ const schemas = {
   'toronto-research-sep-2025': `
 <!-- Blog: Toronto Research Study Specific Meta Tags -->
 <title>AI vs Google Search: What 5,000 Queries Reveal About Discovery | West Operators</title>
-<meta name="description" content="University of Toronto research reveals only 10-30% overlap between AI and Google sources. Learn how ChatGPT, Claude, and Perplexity create different webs of information." />
+<meta name="description" content="Research reveals 70-90% of AI sources differ from Google's. Learn how ChatGPT, Claude & Perplexity are creating entirely new discovery paths." />
 <meta name="author" content="Angelina Yang" />
 
 <!-- Open Graph Specific -->
@@ -2354,7 +2354,7 @@ const schemas = {
   'growth-takes-2x-longer-than-product': `
 <!-- Blog: GTM/Positioning Development Specific Meta Tags -->
 <title>Founders focus on product first but growth takes 2x longer to build | West Operators</title>
-<meta name="description" content="Building an MVP takes months. Finding the right positioning takes years. Learn why technically superior products lose to inferior ones with better positioning and how to develop both in parallel." />
+<meta name="description" content="MVP takes months. Positioning takes years. Learn why superior products lose to inferior ones with better positioning & how to develop both in parallel." />
 <meta name="author" content="Christine Tseng" />
 
 <!-- Open Graph Specific -->
