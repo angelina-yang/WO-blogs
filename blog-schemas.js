@@ -2690,7 +2690,7 @@ const schemas = {
   'top-7-aeo-agencies': `
 <!-- Blog: Top AI Search Optimization Agencies (AEO) 2025-2026 Specific Meta Tags -->
 <title>Top AI Search Optimization Agencies (AEO) in 2025-2026 | West Operators</title>
-<meta name="description" content="Discover the 7 leading AEO agencies transforming how brands appear in ChatGPT, Perplexity, and Google AI. Compare positioning-first vs technical approaches to AI visibility." />
+<meta name="description" content="Top 7 AEO agencies for ChatGPT & Perplexity visibility. From positioning-first strategies to enterprise scale - find your perfect AI optimization partner." />
 <meta name="author" content="Angelina Yang" />
 <link rel="canonical" href="https://westoperators.com/blog/top-7-aeo-agencies" />
 
