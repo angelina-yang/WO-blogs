@@ -5780,7 +5780,7 @@ const schemas = {
 <!-- Primary Meta Tags -->
 <title>The new economics of growth in the AI search era | West Operators</title>
 <meta name="description" content="ChatGPT sends 36x less traffic than Google but converts 6-15x better. Learn how B2B brands are growing revenue despite traffic drops by optimizing for AI-driven discovery." />
-<meta name="author" content="West Operators" />
+<meta name="author" content="Angelina Yang" />
 <link rel="canonical" href="https://westoperators.com/blog/the-new-economics-of-growth-in-the-ai-search-era" />
 <meta name="robots" content="index, follow, max-image-preview:large" />
 <meta name="keywords" content="AI search optimization, ChatGPT optimization, B2B AI strategy, conversion rates, AI-driven discovery, generative AI search, organic signups, AI traffic conversion" />
@@ -5796,7 +5796,7 @@ const schemas = {
 <meta property="og:image:alt" content="AI search economics visualization showing conversion rate differences" />
 <meta property="article:published_time" content="2025-10-31T09:00:00-07:00" />
 <meta property="article:modified_time" content="2025-10-31T09:00:00-07:00" />
-<meta property="article:author" content="West Operators" />
+<meta property="article:author" content="Angelina Yang" />
 <meta property="article:section" content="AI Search Strategy" />
 <meta property="article:tag" content="AI Search" />
 <meta property="article:tag" content="Conversion Optimization" />
@@ -5812,6 +5812,7 @@ const schemas = {
 
 <!-- LinkedIn Meta Tags -->
 <meta property="linkedin:company" content="West Operators" />
+<meta property="linkedin:author" content="https://www.linkedin.com/in/meetangelina/" />
 
 <!-- SCHEMA MARKUP SECTION -->
 
@@ -5841,9 +5842,21 @@ const schemas = {
       "datePublished": "2025-10-31T09:00:00-07:00",
       "dateModified": "2025-10-31T09:00:00-07:00",
       "author": {
-        "@type": "Organization",
-        "@id": "https://westoperators.com/#organization"
-      },
+          "@type": "Person",
+          "@id": "https://www.linkedin.com/in/meetangelina/#person",
+          "name": "Angelina Yang",
+          "url": "https://www.linkedin.com/in/meetangelina/",
+          "jobTitle": "Co-founder & AI/AEO/GEO Specialist",
+          "worksFor": {
+            "@type": "Organization",
+            "@id": "https://westoperators.com/#organization"
+          },
+          "knowsAbout": [
+            "AI Search Economics",
+            "AEO, GEO",
+            "AI visibility"
+          ]
+        },
       "publisher": {
         "@type": "Organization",
         "@id": "https://westoperators.com/#organization",
