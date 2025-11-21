@@ -4466,22 +4466,22 @@ const schemas = {
       },
       "datePublished": "2025-10-24T09:00:00-07:00",
       "dateModified": "2025-10-24T09:00:00-07:00",
-      "author": [
+       "author": [
         {
           "@type": "Person",
           "@id": "https://www.linkedin.com/in/meetangelina/#person",
           "name": "Angelina Yang",
           "url": "https://www.linkedin.com/in/meetangelina/",
           "sameAs": [
-            "https://www.linkedin.com/in/meetangelina/",
-            "https://twitter.com/meetangelina"
+            "https://www.linkedin.com/in/meetangelina/"
+ 
           ],
-          "jobTitle": "Co-founder & Cross-Border Growth Specialist",
+          "jobTitle": "Co-founder & AI search and visibility researcher",
           "worksFor": {
             "@type": "Organization",
             "@id": "https://westoperators.com/#organization"
           },
-          "knowsAbout": ["Cross-Border Expansion", "B2B Growth Strategy", "Chinese Market Entry", "US Market Positioning"]
+          "knowsAbout": ["AEO", "GEO", "AI search", "AI visibility"]
         },
         {
           "@type": "Person",
@@ -4489,8 +4489,7 @@ const schemas = {
           "name": "Christine Tseng",
           "url": "https://www.linkedin.com/in/christinetseng/",
           "sameAs": [
-            "https://www.linkedin.com/in/christinetseng/",
-            "https://twitter.com/christinetseng"
+            "https://www.linkedin.com/in/christinetseng/"
           ],
           "jobTitle": "Co-founder & Product Positioning Expert",
           "worksFor": {
@@ -5156,7 +5155,7 @@ const schemas = {
 <!-- Primary Meta Tags -->
 <title>Why teams that understand their customers, not the ones chasing AI tools, win AI-search | West Operators</title>
 <meta name="description" content="AI monitoring tools cost $499-$2,000/month telling you what you already know. Learn why customer understanding beats algorithmic optimization for AI visibility." />
-<meta name="author" content="West Operators Team" />
+<meta name="author" content="Angelina Yang, Christine Tseng" />
 <link rel="canonical" href="https://westoperators.com/blog/good-positioning-win-ai-search" />
 <meta name="robots" content="index, follow, max-image-preview:large" />
 <meta name="keywords" content="AI search optimization, AEO tools, customer understanding, generative search optimization, AI visibility, content strategy, B2B positioning" />
@@ -5172,7 +5171,8 @@ const schemas = {
 <meta property="og:image:alt" content="AI tools versus human understanding in search optimization" />
 <meta property="article:published_time" content="2025-11-17T09:00:00-07:00" />
 <meta property="article:modified_time" content="2025-11-17T09:00:00-07:00" />
-<meta property="article:author" content="West Operators Team" />
+<meta property="article:author" content="Angelina Yang" />
+<meta property="article:author" content="Christine Tseng" />
 <meta property="article:section" content="AI Search Strategy" />
 <meta property="article:tag" content="AEO" />
 <meta property="article:tag" content="Customer Intelligence" />
@@ -5188,7 +5188,8 @@ const schemas = {
 <meta name="twitter:creator" content="@westoperators" />
 
 <!-- LinkedIn Meta Tags -->
-<meta property="linkedin:author" content="West Operators" />
+<meta property="linkedin:author" content="https://www.linkedin.com/in/meetangelina/" />
+<meta property="linkedin:author" content="https://www.linkedin.com/in/christinetseng/" />
 <meta property="linkedin:company" content="West Operators" />
 
 <!-- SCHEMA MARKUP SECTION -->
@@ -5220,9 +5221,35 @@ const schemas = {
       "dateModified": "2025-11-17T09:00:00-07:00",
       "author": [
         {
-          "@type": "Organization",
-          "@id": "https://westoperators.com/#organization",
-          "name": "West Operators"
+          "@type": "Person",
+          "@id": "https://www.linkedin.com/in/meetangelina/#person",
+          "name": "Angelina Yang",
+          "url": "https://www.linkedin.com/in/meetangelina/",
+          "sameAs": [
+            "https://www.linkedin.com/in/meetangelina/"
+ 
+          ],
+          "jobTitle": "Co-founder & AI search and visibility researcher",
+          "worksFor": {
+            "@type": "Organization",
+            "@id": "https://westoperators.com/#organization"
+          },
+          "knowsAbout": ["AEO", "GEO", "AI search", "AI visibility"]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.linkedin.com/in/christinetseng/#person",
+          "name": "Christine Tseng",
+          "url": "https://www.linkedin.com/in/christinetseng/",
+          "sameAs": [
+            "https://www.linkedin.com/in/christinetseng/"
+          ],
+          "jobTitle": "Co-founder & Product Positioning Expert",
+          "worksFor": {
+            "@type": "Organization",
+            "@id": "https://westoperators.com/#organization"
+          },
+          "knowsAbout": ["Product Positioning", "Enterprise Sales", "B2B Marketing", "Cross-Cultural Business"]
         }
       ],
       "publisher": {
@@ -5479,10 +5506,17 @@ const schemas = {
       "@id": "https://westoperators.com/blog/good-positioning-win-ai-search#blogpost",
       "headline": "Why the teams that understand their customers, not the ones chasing new AI tools, win AI-search",
       "image": "https://cdn.prod.website-files.com/689890aedcf39f5ff077fda1/691b7c5d9906d1a922c1a351_pexels-googledeepmind-17483867.jpg",
-      "author": {
-        "@type": "Organization",
-        "@id": "https://westoperators.com/#organization"
-      },
+       "author": [
+        {
+          "@type": "Person",
+          "@id": "https://www.linkedin.com/in/meetangelina/#person"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://www.linkedin.com/in/christinetseng/#person"
+        }
+      ],
+
       "publisher": {
         "@type": "Organization",
         "@id": "https://westoperators.com/#organization"
